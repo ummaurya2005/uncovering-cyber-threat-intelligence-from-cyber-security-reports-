@@ -62,9 +62,11 @@ graph TD;
     }
   }
 }
+```
 
+###📁 **cyber-threat-intelligence-analyzer**
 
-📁 **cyber-threat-intelligence-analyzer**
+```mermaid
 │── `app.py`                    # Streamlit UI
 │── `main.py`                   # Backend pipeline
 │── `requirements.txt`
@@ -83,5 +85,6 @@ graph TD;
 │
 ├── `.gitignore`
 └── `.env`
+```
 
 
