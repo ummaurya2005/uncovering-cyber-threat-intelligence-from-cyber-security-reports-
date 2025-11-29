@@ -14,9 +14,6 @@ graph TD;
     J --> K[Display Results in UI]
 
 
-
-
-For clone 
 git clone YOUR_REPO_URL
 cd cyber-threat-intelligence-analyzer
 
@@ -28,11 +25,11 @@ venv\Scripts\activate     # (Windows)
 pip install -r requirements.txt
 
 
-VT_API_KEY=YOUR_API_KEY_HERE
 
 python main.py
- 
+
 streamlit run app.py
+
 
 📁 cyber-threat-intelligence-analyzer
 │── app.py                    # Streamlit UI
@@ -50,7 +47,6 @@ streamlit run app.py
 │
 ├── .gitignore
 └── .env
-
 
 {
   "Final Verdict": "Malicious",
@@ -71,3 +67,4 @@ streamlit run app.py
     }
   }
 }
+
