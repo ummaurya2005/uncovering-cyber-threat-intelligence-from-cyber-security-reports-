@@ -66,7 +66,7 @@ graph TD;
 
 ###📁 **cyber-threat-intelligence-analyzer**
 
-```mermaid
+```bash
 │── `app.py`                    # Streamlit UI
 │── `main.py`                   # Backend pipeline
 │── `requirements.txt`
