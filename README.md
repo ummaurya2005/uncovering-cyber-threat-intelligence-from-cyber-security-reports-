@@ -8,6 +8,16 @@ Extract IoCs, TTPs, Threat Actors, Malware signatures, run VirusTotal analysis &
 
 ---
 
+# 🛡 Cyber Threat Intelligence Analyzer
+AI-Powered Automated Threat Intelligence from Cybersecurity PDF Reports  
+Extract IoCs, TTPs, Threat Actors, Malware signatures, run VirusTotal analysis & generate summaries.
+
+---
+
+![Banner](https://via.placeholder.com/1200x300?text=Cyber+Threat+Intelligence+Analyzer+%7C+AI+Security+Tool)
+
+---
+
 ## 🚀 System Architecture Diagram
 
 ```mermaid
@@ -25,6 +35,8 @@ graph TD;
     H --> J
     I --> J
     J --> K[Display Results in UI]
+
+
 ### 🧪 Sample Output JSON
 ```json
 {
