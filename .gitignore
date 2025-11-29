@@ -1,0 +1,55 @@
+# -----------------------------
+# Python
+# -----------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+
+
+
+# -----------------------------
+# Project Specific
+# -----------------------------
+
+# API keys / config files (DO NOT UPLOAD)
+config/
+config.json
+*.env
+.env
+.env.local
+
+# Input / output temp files
+data/reports/*
+data/output/*
+temp.pdf
+*.pdf
+
+# Do not ignore sample files (keep example placeholder PDFs)
+!data/reports/sample.pdf
+!data/output/example.json
+
+# Uploaded media / temporary processed files
+uploads/
+temp/
+cache/
+
+# Model cache
+huggingface/
+transformers_cache/
+cache/
+*.bin
+
+
+
+
+
+

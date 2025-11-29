@@ -1,0 +1,16 @@
+pandas
+numpy
+pdfplumber
+spacy
+transformers
+torch
+sentencepiece
+regex
+pyyaml
+tqdm
+scikit-learn
+requests
+# PyPDF2
+# tld
+python-dotenv
+streamlit
