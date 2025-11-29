@@ -4,7 +4,7 @@ Extract IoCs, TTPs, Threat Actors, Malware signatures, run VirusTotal analysis &
 
 ---
 
-![Banner](https://via.placeholder.com/1200x300?text=Cyber+Threat+Intelligence+Analyzer+%7C+AI+Security+Tool)
+![Banner](https://vipre.com/wp-content/uploads/2022/08/8-9-2022-8-33-54-PM.jpg)
 
 ---
 
