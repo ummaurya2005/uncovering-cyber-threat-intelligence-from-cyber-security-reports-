@@ -25,8 +25,6 @@ graph TD;
     H --> J
     I --> J
     J --> K[Display Results in UI]
-
-
 ### 🧪 Sample Output JSON
 ```json
 {
